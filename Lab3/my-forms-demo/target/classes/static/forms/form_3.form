@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "Calcular monto préstamo hipotecario",
+      "type": "text",
+      "id": "Field_0a3kt9x"
+    },
+    {
+      "label": "Monto",
+      "type": "textfield",
+      "id": "Field_0t0meaf",
+      "key": "field_0u0dh9s"
+    }
+  ],
+  "type": "default",
+  "id": "form3"
+}

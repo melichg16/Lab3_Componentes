@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "SOLICITUD DE CREDITO\n",
+      "type": "text",
+      "id": "Field_1rcg4mz"
+    },
+    {
+      "label": "Monto",
+      "type": "textfield",
+      "id": "Field_14hg23y",
+      "key": "monto"
+    },
+    {
+      "values": [
+        {
+          "label": "Hipotecario",
+          "value": "hipotecario"
+        },
+        {
+          "value": "personal",
+          "label": "Personal"
+        }
+      ],
+      "type": "radio",
+      "id": "Field_17r0jew",
+      "key": "tipo"
+    }
+  ],
+  "type": "default",
+  "id": "form2"
+}

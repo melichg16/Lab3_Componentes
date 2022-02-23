@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "Datos de la persona fiadora\n",
+      "type": "text",
+      "id": "Field_19nxxml"
+    },
+    {
+      "label": "Nombre completo",
+      "type": "textfield",
+      "id": "Field_0stj4j6",
+      "key": "nombreF"
+    },
+    {
+      "label": "Cédula",
+      "type": "textfield",
+      "id": "Field_1oj8rle",
+      "key": "ced"
+    }
+  ],
+  "type": "default",
+  "id": "form5"
+}

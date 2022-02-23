@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "REGISTRO DE USUARIOS",
+      "type": "text",
+      "id": "Field_0nlw1wj"
+    },
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "id": "Field_06h0fps",
+      "key": "nombre"
+    },
+    {
+      "label": "Primer Apellido",
+      "type": "textfield",
+      "id": "Field_0bbplbo",
+      "key": "apellido1"
+    },
+    {
+      "label": "Segundo Apellido",
+      "type": "textfield",
+      "id": "Field_0fr0xkk",
+      "key": "apellido2"
+    }
+  ],
+  "type": "default",
+  "id": "form1"
+}

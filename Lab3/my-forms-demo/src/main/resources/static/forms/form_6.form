@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Acepto los términos y condiciones",
+          "value": "terms"
+        }
+      ],
+      "label": "Términos y condiciones....",
+      "type": "radio",
+      "id": "Field_1blvqdc",
+      "key": "field_0h7bf39"
+    }
+  ],
+  "type": "default",
+  "id": "form6"
+}

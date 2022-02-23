@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "Calcular Monto\npréstamo Personal",
+      "type": "text",
+      "id": "Field_0ajktgp"
+    },
+    {
+      "label": "Monto",
+      "type": "textfield",
+      "id": "Field_03mkqol",
+      "key": "field_0khvx92"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0ei2f3q"
+}
